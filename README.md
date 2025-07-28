@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Pop (Dannyy3)!
+# 👋 Hi, I'm Daniel Pop!
 
 ![Altia Logo](https://www.altia.es/themes/custom/rhythm_sub/logo.png)
 
