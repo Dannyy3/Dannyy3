@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Pop (Dannyy3)!
 
-![Altia Logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/Altia_logo.png)
+![Altia Logo]([https://upload.wikimedia.org/wikipedia/commons/0/0d/Altia_logo.png](https://www.altia.es/themes/custom/rhythm_sub/logo.png))
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-pop-932635249/">
