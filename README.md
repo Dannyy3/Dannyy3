@@ -82,7 +82,7 @@ You can replace these with your own repositories or pin your favorites on GitHub
 
 ### 🌱 About Me
 
-I love building efficient and elegant solutions, learning new technologies, and working in diverse teams. When I’m not coding, you’ll find me exploring Zaragoza or learning something new!
+I love building efficient and elegant solutions, learning new technologies, and working in diverse teams.When I’m not coding, you’ll find me learning new things, out in the mountains, playing drums, and doing sports.
 
 ---
 
