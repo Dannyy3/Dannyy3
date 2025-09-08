@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Daniel Pop!
 
 <div  align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4300&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Specialized+in+.Net+;Technology+Enthusiast;Exploring+React+%26+Angular" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Specialized+in+.Net+;Technology+Enthusiast;Exploring+React+%26+Angular" alt="Typing SVG" />
 </div>
 
 <p align="center">
