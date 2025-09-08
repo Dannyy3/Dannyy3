@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Daniel Pop!
+# 👋 Hey, I'm Daniel Pop!
 
-![Altia Logo](https://www.altia.es/themes/custom/rhythm_sub/logo.png)
+<div  align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4300&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Specialized+in+.Net+;Technology+Enthusiast;Exploring+React+%26+Angular" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-pop-932635249/">
@@ -11,9 +13,9 @@
 
 ---
 
-## 💻 Full Stack Developer | Zaragoza, Spain | Remote & On-Site Experience
+## 💻 Full Stack Developer | Spain | Remote & On-Site Experience
 
-Welcome to my GitHub! I’m a passionate Full Stack Developer with a strong background in .NET technologies, SQL, and modern web frameworks. Over the past years, I’ve contributed to impactful projects at leading companies such as Altia, Sesé, and Integra Tecnología.
+Welcome to my GitHub! I’m a passionate Full Stack Developer with a strong background in .NET technologies, SQL, and modern web frameworks. Over the past years, I’ve contributed to projects from companies such as Altia, Sesé, and Integra Tecnología.
 
 ---
 
@@ -21,18 +23,24 @@ Welcome to my GitHub! I’m a passionate Full Stack Developer with a strong back
 
 - **Full Stack Developer — Altia**  
   _Jul. 2024 – Present | Zaragoza, Aragón, España (Remote)_  
-  - Specializing in Full Stack Development with .NET Framework.
-  - Tackling complex problems with a collaborative and innovative spirit.
+  - Specializing in Full Stack Development with .NET.
+  - Creating programs wiht .Net and Windows forms for the differents necessities
+  - Maintenance created apps and Resolving problems.
 
 - **IT Programmer — Sesé**  
   _Aug. 2023 – Jul. 2024 | Zaragoza, Aragón, España (On-site)_  
-  - Developed robust solutions using SQL Server Reporting Services (SSRS) and .NET Core.
-  - Enhanced reporting and data analysis for business intelligence.
+  - Developed solutions using ASP.NET MVC and SQL Server
+  - Using Kendo, HTML, Boostrap, JavaScript and JQuery to make frontend part
+  - Use Reporting Services (SSRS) for create reports for client
+  - Power Automate to help with employee time clocking
 
 - **Software Developer — Integra Tecnología**  
   _Sept. 2021 – Aug. 2023_  
-  - Delivered end-to-end software solutions with jQuery, .NET Core, and much more.
-  - Focused on scalable, maintainable, and user-friendly applications.
+  - Created software solutions with diferent versions of .NET.
+  - Develop features in Asp.net MVC
+  - Using Razor, HTML, Boostrap, JavaScript and JQuery to make frontend part
+  - Maintenance of created aplicactions
+  - Resolve issues and develop feautures in VB.NET and VB
 
 ---
 
@@ -42,11 +50,13 @@ Welcome to my GitHub! I’m a passionate Full Stack Developer with a strong back
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/SSRS-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SSRS" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Visual-Basic-blue?logo=vb&logoColor=white" alt="VB" />
+  <img src= "https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+ 
 </p>
 
 ---
@@ -60,30 +70,13 @@ Welcome to my GitHub! I’m a passionate Full Stack Developer with a strong back
 
 ---
 
-### 🌟 Featured Projects
+### 🤝 Connect with Me
 
-<!--
-You can replace these with your own repositories or pin your favorites on GitHub!
--->
-- [Altia Project Repo](#)  
-  _Cutting-edge solutions in .NET Full Stack development._  
-- [Business Reporting Dashboard](#)  
-  _Advanced reporting tools using SSRS and SQL Server._  
-- [Web Apps with Integra Tecnología](#)  
-  _User-focused, scalable web applications._
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-pop-932635249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
----
-
-### 🌍 Let’s Connect!
-
-- [LinkedIn: Daniel Pop](https://www.linkedin.com/in/daniel-pop-932635249/)
-
----
-
-### 🌱 About Me
-
-I love building efficient and elegant solutions, learning new technologies, and working in diverse teams.When I’m not coding, you’ll find me learning new things, out in the mountains, playing drums, and doing sports.
-
----
 
 _Thanks for visiting my profile! Feel free to check out my repositories and connect with me._
